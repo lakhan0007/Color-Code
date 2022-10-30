@@ -2,6 +2,7 @@
 
 body{
     font-family: 'Combo', cursive; 
+    overflow: hidden;
 }
 
 .container {
